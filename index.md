@@ -1,8 +1,9 @@
-## Spruce University
+![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Glenn_L_Martin_Hall.jpg)
+# Spruce University
 _A university for the ages._
 
 ## todo: 
- 1. add header image
+ ~~1. add header image~~
  2. add description of school
  3. add images
  4. add license, probably GFDL
@@ -41,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ## LICENSE
-This work is licensed under the Creative Commons Zero v1.0 Universal unless otherwise stated.
+This work is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) unless otherwise stated.
 
 # DISCLAIMER:
 THIS WEBSITE EXISTS ONLY FOR A SCHOOL PROJECT: IT IS NOT A REAL UNIVERSITY, NOR DOES IT CLAIM TO BE. DO NOT ATTEMPT TO ENROLL HERE OR CONTACT US.
