@@ -1,12 +1,12 @@
-![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Glenn_L_Martin_Hall.jpg)
 # Spruce University
 _A university for the ages._
+![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Glenn_L_Martin_Hall.jpg)
 
 ## todo: 
- ~~1. add header image~~
+~~ 1. add header image~~
  2. add description of school
  3. add images
- 4. add license, probably GFDL
+~~ 4. add license: CC0~~
 
 ### Markdown
 
