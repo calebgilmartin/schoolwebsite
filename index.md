@@ -5,8 +5,11 @@ _caption: image of main hall (Photographer:Mysterymanblue, licensed under the CC
 
 ## todo: 
 ~~1. add header image~~
- 2. add description of school
- 3. add images
+
+ 1. add description of school
+ 
+ 2. add images
+ 
 ~~4. add license: CC0~~
 
 ### Markdown
