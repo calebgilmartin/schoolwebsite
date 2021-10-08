@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Spruce University
+_A university for the ages._
 
-You can use the [editor on GitHub](https://github.com/calebgilmartin/schoolwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## todo: 
+ 1. add header image
+ 2. add description of school
+ 3. add images
+ 4. add license, probably GFDL
 
 ### Markdown
 
@@ -35,3 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+# DISCLAIMER:
+THIS WEBSITE EXISTS ONLY FOR A SCHOOL PROJECT: IT IS NOT A REAL UNIVERSITY, NOR DOES IT CLAIM TO BE. DO NOT ATTEMPT TO ENROLL HERE OR CONTACT US.
