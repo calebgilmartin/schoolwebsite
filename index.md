@@ -3,23 +3,20 @@ _A university for the ages._
 ![Image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Glenn_L_Martin_Hall.jpg)
 _caption: image of main hall (Photographer:Mysterymanblue, licensed under the CC0)_
 
-## todo: 
-~~1. add header image~~
-
- 1. add description of school
- 
- 2. add images
- 
-~~4. add license: CC0~~
-
 ## About us
 Spruce University is a faux university in Sprucedaletown, California. Spruce university specializes in programming and engineering.
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/8/8f/Acton_classroom.jpg)
+_caption: image of an in-session class, 2018 (Photographer: Kalogator, released into the public domain)_
+
 View our [Faculty (WIP).](https://calebgilmartin.github.io/schoolwebsite/faculty)
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/0/0c/Black_woman_with_women%27s_suit_4.jpg)
+_caption: image of our principal, Martha Jingleheimerson-Schmidt, 2018 (Photographer: Daniela_oliiver-637925, licensed under the CC0)_
 
 View the [courses and degrees we offer (WIP).](https://calebgilmartin.github.io/schoolwebsite/courses)
 
-We are not currently enrolling nor offering any classes. [Get notified when enrollment starts (WIP).](https://calebgilmartin.github.io/schoolwebsite/enrollment)
+Due to COVID-19, we are not currently enrolling students nor offering any classes. [Get notified when enrollment starts (WIP).](https://calebgilmartin.github.io/schoolwebsite/enrollment)
 
 [View our campus on a virtual tour (WIP).](https://calebgilmartin.github.io/schoolwebsite/tour)
 
