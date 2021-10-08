@@ -40,5 +40,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
+## LICENSE
+This work is licensed under the Creative Commons Zero v1.0 Universal unless otherwise stated.
+
 # DISCLAIMER:
 THIS WEBSITE EXISTS ONLY FOR A SCHOOL PROJECT: IT IS NOT A REAL UNIVERSITY, NOR DOES IT CLAIM TO BE. DO NOT ATTEMPT TO ENROLL HERE OR CONTACT US.
