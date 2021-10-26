@@ -11,7 +11,7 @@ _caption: image of an in-session class, 2018 (Photographer: Kalogator, released 
 
 View our [Faculty (WIP).](https://calebgilmartin.github.io/schoolwebsite/faculty)
 
-![Image](/assets/Black_woman_with_women%27s_suit_4.jpg)
+![Image](/assets/Black_woman_with_women's_suit_4.jpg)
 _caption: image of our principal, Martha Jingleheimerson-Schmidt, 2018 (Photographer: Daniela_oliiver-637925, licensed under the CC0)_
 
 View the [courses and degrees we offer (WIP).](https://calebgilmartin.github.io/schoolwebsite/courses)
